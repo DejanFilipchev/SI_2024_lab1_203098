@@ -1,0 +1,57 @@
+2. Go promeniv imeto vo master
+3. kreirav repo na Github SI_2024_lab1_203098
+Go selektirav Private
+4. mkdir SI_2024_lab1_203098 kreirav direktorium
+cd SI_2024_lab1_203098 vleguvame vo direktoriumot
+get init napraviv inicijalizacija
+5. git remote add origin https://github.com/DejanFilipchev/SI_2024_lab1_203098.git
+6. nano README.md
+git config --global user.email "dejlocil170@gmail.com"
+git config --global user.name "DejanFilipchev"
+git add README.md
+git commit -m "Initial commit"
+7. gi prevzedov trite linkovi so drag & drop gi prenesov vo papkata SI_2024_lab1_203098
+ja iskoristiv komandata git add --all 
+potoa iskoristiv git commit -m "Add starter code"
+8. git push -u origin master - So ovaa komanda gi push-vime kreiranite/izmenetite datoteki na Github repo
+9. git branch bug1	kreiravme granka bug1
+git branch bug2		kreiravme granka bug2
+10. git checkout bug1   se prefrluvame na grankata bug1
+11. so komandata nano SILab1_1.java vlegov vo fajlot i ja popraviv greskata
+git add SILab1_1.java  pravime git add za da premine fajlot vo status: staged
+git commit -m "Fix wrong condition in filterOddLengthStrings"
+12. git checkout bug2	se prefrlame na grankata bug2
+13. nano SILab1_2.java ja popravame greskata vo fajlot
+git add SILab1_2.java  pravime git add za da premine fajlot vo status: staged
+git commit -m "Fix wrong condition in makeBigStringFrom"
+14. git checkout bug1 se vrakjame na grankata bug1
+15. nano SILab1Main.java i go dodavame baranjeto
+git add SILab1Main.java  pravime git add za da premine fajlot vo status: staged
+git commit -m "Call method filterOddLengthStrings in main class"
+16. git checkout bug2 se vrakjame povtorno na bug2
+17. go otvorame fajlot so komandata nano SILab1Main.java
+git add SILab1Main.java pravime git add za da premine fajlot vo status: staged
+git commit -m "Call method makeBigStringFrom in main class"
+18. git push --all pravime sinhronizacija na site granki na github repo so lokalniot repo
+19. git checkout master
+20. git merge bug1  ja spojuvame grankata bug1 so glavnata granka master
+21. git push --all
+22. git checkout bug2
+23. git rebase master pravime rebase na grankata bug2 vo master
+se javi konflikt, dadeniot konflikt go resiv taka sto otvoriv
+nano SILab1Main.java i gi podrediv komandite vo oddelni linii kako bi go sovladal konfliktot
+git add SILab1Main.java odnovo fajlot go stavame na status: staged
+git rebase --continue velime deka rebase moze da prodolzi 
+24. git checkout master 
+25. git merge bug2 pravime spoj na master so bug2
+26. git push --all pravime sinhronizacija na site granki na lokalniot repo so github repo,
+no se javuva konflikt
+27. git push --force origin bug2 prinudno gi pushirame commits na github repo, force ja prebrisuva 
+istorijata na github grankata so nasata lokalna istorija ( se naogjame na istata granka)
+28. git log gi zemame logovite koi sto gi pravevme (commit,promena na branch...) 
+potoa gi kopirav site logovi 
+napraviv fajl nano logs.txt
+
+kreirav nov fajl 203098.txt kade gi zapisav cekorite
+
+29. git push --all

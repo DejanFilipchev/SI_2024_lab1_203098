@@ -1,0 +1,121 @@
+commit 84ddeabd4c78c5eb656a9186d0b094952b3b53a6 (HEAD -> master, origin/master, origin/bug2, bug2)
+Author: DejanFilipchev <dejlocil170@gmail.com>
+Date:   Fri Apr 5 20:53:16 2024 +0200
+
+    Call method makeBigStringFrom in main class
+
+commit c04175dc97fd1dc6ba42dc1edb2ba6ddd76dbcb1
+Author: DejanFilipchev <dejlocil170@gmail.com>
+Date:   Fri Apr 5 20:43:20 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit 1584ae71665e1c0032bf671e8dbac9b276c52673 (origin/bug1, bug1)
+Author: DejanFilipchev <dejlocil170@gmail.com>
+Date:   Fri Apr 5 20:48:25 2024 +0200
+
+:...skipping...
+commit 84ddeabd4c78c5eb656a9186d0b094952b3b53a6 (HEAD -> master, origin/master, origin/bug2, bug2)
+Author: DejanFilipchev <dejlocil170@gmail.com>
+Date:   Fri Apr 5 20:53:16 2024 +0200
+
+    Call method makeBigStringFrom in main class
+
+commit c04175dc97fd1dc6ba42dc1edb2ba6ddd76dbcb1
+Author: DejanFilipchev <dejlocil170@gmail.com>
+Date:   Fri Apr 5 20:43:20 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit 1584ae71665e1c0032bf671e8dbac9b276c52673 (origin/bug1, bug1)
+Author: DejanFilipchev <dejlocil170@gmail.com>
+Date:   Fri Apr 5 20:48:25 2024 +0200
+
+    Call methot filterOddLengthStrings in main class
+
+commit 5edb59e76ebfe79fb05d4fa7cd0194dcce4382e9
+Author: DejanFilipchev <dejlocil170@gmail.com>
+Date:   Fri Apr 5 20:39:14 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit 0805ca887a4ecec46ec269c2c9b16491dd1d1ab0
+Author: DejanFilipchev <dejlocil170@gmail.com>
+Date:   Fri Apr 5 20:38:28 2024 +0200
+
+    SILab1_1.java
+
+commit bd459172180aeac01fd87a6e0e88722bb0e41257
+Author: DejanFilipchev <dejlocil170@gmail.com>
+Date:   Fri Apr 5 20:34:35 2024 +0200
+
+    SILab1_1.java
+
+commit 0f649284fe84d34c024e862bce96089d7ddb24e1
+Author: DejanFilipchev <dejlocil170@gmail.com>
+:
+commit 84ddeabd4c78c5eb656a9186d0b094952b3b53a6 (HEAD -> master, origin/master, origin/bug2, bug2)
+Author: DejanFilipchev <dejlocil170@gmail.com>
+Date:   Fri Apr 5 20:53:16 2024 +0200
+
+    Call method makeBigStringFrom in main class
+
+commit c04175dc97fd1dc6ba42dc1edb2ba6ddd76dbcb1
+Author: DejanFilipchev <dejlocil170@gmail.com>
+Date:   Fri Apr 5 20:43:20 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit 1584ae71665e1c0032bf671e8dbac9b276c52673 (origin/bug1, bug1)
+Author: DejanFilipchev <dejlocil170@gmail.com>
+Date:   Fri Apr 5 20:48:25 2024 +0200
+
+:
+commit 84ddeabd4c78c5eb656a9186d0b094952b3b53a6 (HEAD -> master, origin/master, origin/bug2, bug2)
+Author: DejanFilipchev <dejlocil170@gmail.com>
+Date:   Fri Apr 5 20:53:16 2024 +0200
+
+    Call method makeBigStringFrom in main class
+
+commit c04175dc97fd1dc6ba42dc1edb2ba6ddd76dbcb1
+Author: DejanFilipchev <dejlocil170@gmail.com>
+Date:   Fri Apr 5 20:43:20 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit 1584ae71665e1c0032bf671e8dbac9b276c52673 (origin/bug1, bug1)
+Author: DejanFilipchev <dejlocil170@gmail.com>
+Date:   Fri Apr 5 20:48:25 2024 +0200
+
+    Call methot filterOddLengthStrings in main class
+
+commit 5edb59e76ebfe79fb05d4fa7cd0194dcce4382e9
+Author: DejanFilipchev <dejlocil170@gmail.com>
+Date:   Fri Apr 5 20:39:14 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit 0805ca887a4ecec46ec269c2c9b16491dd1d1ab0
+Author: DejanFilipchev <dejlocil170@gmail.com>
+Date:   Fri Apr 5 20:38:28 2024 +0200
+
+    SILab1_1.java
+
+commit bd459172180aeac01fd87a6e0e88722bb0e41257
+Author: DejanFilipchev <dejlocil170@gmail.com>
+Date:   Fri Apr 5 20:34:35 2024 +0200
+
+    SILab1_1.java
+
+commit 0f649284fe84d34c024e862bce96089d7ddb24e1
+Author: DejanFilipchev <dejlocil170@gmail.com>
+Date:   Fri Apr 5 20:12:28 2024 +0200
+
+    Add starter code
+
+commit 3d7cea2ce646d7eb96901b22a4afa800cc0c3564
+Author: DejanFilipchev <dejlocil170@gmail.com>
+Date:   Fri Apr 5 20:08:08 2024 +0200
+
+    Initial commit
+(END)
